@@ -38,5 +38,5 @@ end
 # Define your play method below
 
 def play(board)
-  10.times 
+  10.times {turn}
 end 
